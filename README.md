@@ -1,5 +1,5 @@
- ✌ Hi, I’m ramesh
- 👀 I’m interested in mobile application and game developement.
+ ✌ Hi, I’m Ramesh
+ 👀 I’m interested in web and game developement.
  📫 mail: ramesh0505rk@gmail.com
 
 <!---
