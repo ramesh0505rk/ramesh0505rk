@@ -11,4 +11,4 @@ DevOps & Tools: GitHub, BitBucket
 💡 Passionate about modern web development, microservices, and performance optimization. Always exploring new tech!
 
 📫 Reach me at: ramesh0505rk@gmail.com
-🔗 Let's connect: LinkedIn - https://www.linkedin.com/in/rameshkumar-k-0276a41b6/
+🔗 Let's connect: https://www.linkedin.com/in/rameshkumar-k-0276a41b6/
