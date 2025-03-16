@@ -1,8 +1,14 @@
- ✌ Hi, I’m Ramesh
- 👀 I’m interested in web and game developement.
- 📫 mail: ramesh0505rk@gmail.com
+✌ Hi, I’m Ramesh!
+👨‍💻 Full-Stack Web Developer | Angular & .NET Enthusiast
 
-<!---
-ramesh0505rk/ramesh0505rk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I specialize in building scalable and high-performance web applications using:
+
+Frontend: Angular v18, TypeScript, RxJS, Bootstrap
+Backend: .NET 8, C#, Dapper, Entity Framework
+Databases: MSSQL
+APIs: GraphQL, REST
+DevOps & Tools: GitHub, BitBucket
+💡 Passionate about modern web development, microservices, and performance optimization. Always exploring new tech!
+
+📫 Reach me at: ramesh0505rk@gmail.com
+🔗 Let's connect: LinkedIn - https://www.linkedin.com/in/rameshkumar-k-0276a41b6/
